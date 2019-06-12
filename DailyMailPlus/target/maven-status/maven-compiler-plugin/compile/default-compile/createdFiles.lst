@@ -1,0 +1,7 @@
+pages\HomePage.class
+pages\SignInPage.class
+workflow1\DailyMailPlus\App.class
+pages\SubscribePage.class
+base\testBase.class
+pages\RegisterPage.class
+pages\ForgotPasswordPage.class
